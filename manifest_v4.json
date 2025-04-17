@@ -1,0 +1,50 @@
+{
+    "content":
+    {
+        "version": 1,
+        "supportedLocales":
+        [
+            "ar",
+            "bg",
+            "cs",
+            "cs-CZ",
+            "en-US",
+            "zh",
+            "zh-TW",
+            "zh-HK"
+        ],
+        "unsupportedLocaleRemapping": 
+        {
+        },
+        "urls":
+        {
+            "eula": "https://d3-pacdn.merlin.net/ICM/2.0/{locale}/eula/index.html",
+            "privacy": "https://d3-pacdn.merlin.net/ICM/2.0/{locale}/pn/index.html",
+            "faq": "https://d3-pacdn.merlin.net/ICM/2.0/{locale}/faq/index.html",
+            "demo": "https://d3-pacdn.merlin.net/ICM/2.0/{locale}/demo/index.html",
+            "strings": "https://d3-pacdn.merlin.net/ICM/2.0/{locale}/Strings.{locale}.resources"
+        },
+        "strings":
+        {
+            "zh_TW": 2,
+            "zh_HK": 2,
+            "defaultVersion": 1
+        },
+        "eula":
+        {
+            "defaultVersion": 1
+        },
+        "pn":
+        {
+            "defaultVersion": 1
+        },
+        "faq":
+        {
+            "defaultVersion": 1
+        },
+        "demo":
+        {
+            "defaultVersion": 1
+        }
+    }
+}
