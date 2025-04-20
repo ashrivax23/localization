@@ -18,11 +18,11 @@
         },
         "urls":
         {
-            "eula": "https://d3-pacdn.merlin.net/ICM/2.0/{locale}/eula/index.html",
-            "privacy": "https://d3-pacdn.merlin.net/ICM/2.0/{locale}/pn/index.html",
-            "faq": "https://d3-pacdn.merlin.net/ICM/2.0/{locale}/faq/index.html",
-            "demo": "https://d3-pacdn.merlin.net/ICM/2.0/{locale}/demo/index.html",
-            "strings": "https://d3-pacdn.merlin.net/ICM/2.0/{locale}/Strings.{locale}.resources"
+            "eula": "https://t1-pacdn.merlin.net/ICM/2.2/{locale}/eula/index.html",
+            "pn": "https://t1-pacdn.merlin.net/ICM/2.2/{locale}/pn/index.html",
+            "faq": "https://t1-pacdn.merlin.net/ICM/2.2/{locale}/faq/index.html",
+            "demo": "https://t1-pacdn.merlin.net/ICM/2.2/{locale}/demo/index.html",
+            "strings": "https://d3-pacdn.merlin.net/ICM/2.2/{locale}/Strings.{locale}.resources"
         },
         "strings":
         {
