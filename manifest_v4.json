@@ -22,7 +22,7 @@
             "pn": "https://t1-pacdn.merlin.net/ICM/2.2/{locale}/pn/index.html",
             "faq": "https://t1-pacdn.merlin.net/ICM/2.2/{locale}/faq/index.html",
             "demo": "https://t1-pacdn.merlin.net/ICM/2.2/{locale}/demo/index.html",
-            "strings": "https://d3-pacdn.merlin.net/ICM/2.2/{locale}/Strings.{locale}.resources"
+            "strings": "https://t1-pacdn.merlin.net/ICM/2.2/{locale}/Strings.{locale}.resources"
         },
         "strings":
         {
